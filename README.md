@@ -1,7 +1,7 @@
 <h1 align="center"> Beauty Salon </h1>
 
 <p align="center">
-Projeto acadêmico<br/>
+Projeto acadêmico, construído durante evento da NLW Rocketseat<br/>
 
 </p>
 
